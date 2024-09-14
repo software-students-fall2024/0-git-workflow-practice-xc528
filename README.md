@@ -1,2 +1,6 @@
-# Git Practice
-A simple project to practice a few git/github workflows.  Replace the contents of this file with the contents indicated in the [instructions](./instructions.md).
+#My Link
+</p>
+<p>A link I found interesting was [this] (https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository).
+</p>
+<p>When first starting this assignment, I did not know how to clone a repository, so I serched online for instructions and I found this git website.
+***
